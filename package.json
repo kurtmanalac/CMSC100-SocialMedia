@@ -1,7 +1,7 @@
 {
   "name": "100proj",
   "version": "1.0.0",
-  "description": "",
+  "description": "ALL FILES ARE ALREADY THERE FOR NODE AND REACT. No need to npm init or create-react-app. Just pull/clone and you good as long as you have latest node and react.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/kurtmanalac/CMSC100-SocialMedia/issues"
   },
-  "homepage": "https://github.com/kurtmanalac/CMSC100-SocialMedia#readme"
+  "homepage": "https://github.com/kurtmanalac/CMSC100-SocialMedia#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.0.1",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {}
 }
